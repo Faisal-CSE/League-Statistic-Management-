@@ -1,0 +1,55 @@
+ID ----- Full Name ----- Last Name ----- Position ----- Jersey ----- Goals ----- Club ----- Country ----- League
+
+insert into `playerdb` values (001, "Eden", "Hazard", "Midfielder", 10, 85, "Chelsea", "Belgium", "Premier League");
+insert into `playerdb` values (002, "Diego", "Costa", "Forward", 19, 106, "Chelsea", "Spain", "Premier League");
+insert into `playerdb` values (003, "John", "Terry", "Defender", 26, 63, "Chelsea", "England", "Premier League");
+insert into `playerdb` values (004, "Cesc", "Fabregas", "Midfielder", 4, 90, "Chelsea", "Spain", "Premier League");
+insert into `playerdb` values (005, "Didier", "Drogba", "Forward", 11, 238, "Chelsea", "Ivory Coast", "Premier League");
+insert into `playerdb` values (006, "Emboaba JR.", "Oscar", "Midfielder", 8, 30, "Chelsea", "Brazil", "Premier League");
+insert into `playerdb` values (007, "David", "Silva", "Midfielder", 21, 64, "Manchester City", " Spain", "Premier League");
+insert into `playerdb` values (008, "Santi", "Cazorla", "Midfielder", 19, 69, "Arsenal", "Spain", "Premier League");
+insert into `playerdb` values (009, "Wayne", "Rooney", "Forward", 10, 248, "Manchester United", "England", "Premier League");
+insert into `playerdb` values (010, "Angel", "Di Maria", "Forward", 7, 36, "Manchester United", "Argentina", "Premier League");
+insert into `playerdb` values (011, "Robin", "Van Persie", "Forward", 20, 204, "Manchester United", "Netherlands", "Premier League");
+insert into `playerdb` values (012, "Olivier", "Girud", "Forward", 12, 136, "Arsenal", "France", "Premier League");
+insert into `playerdb` values (013, "Steven", "Gerarrd", "Midfielder", 8, 182, "Liverpool", "England", "Premier League");
+insert into `playerdb` values (014, "Frank", "Lampard", "Midfielder", 18, 258, "Manchester City", "England", "Premier League");
+insert into `playerdb` values (015, "Alexis", "Sanchez", "Forward", 17, 97, "Arsenal", "Chile", "Premier League");
+insert into `playerdb` values (016, "Mesut", "Ozil",  "Midfielder", 11, 49, "Arsenal", "Germany", "Premier League");
+insert into `playerdb` values (017, "Sergio", "Aguero", "Forward", 16, 184, "Man City", "Argentina", "Premier League");
+
+
+
+
+
+
+insert into `playerdb` values (018, "Lionel", "Messi", "Forward", 10, 368, "Barcelona", "Argentina", "La Liga");
+insert into `playerdb` values (019, "Cristiano", "Ronaldo", "Forward", 7, 409, "Real Madrid", "Portugal", "La Liga");
+insert into `playerdb` values (020, "Dos Santos Silva JR. ", "Neymar", "Forward", 11, 97, "Barcelona", "Brazil", "La Liga");
+insert into `playerdb` values (021, "Luis", "Suarez", "Forward", 9, 239, "Barcelona", "Uruguay", "La Liga");
+insert into `playerdb` values (022, "Andres", "Iniesta", "Midfielder", 8, 40, "Barcelona", "Spain", "La Liga");
+insert into `playerdb` values (023, "Hernandez", "Xavi", "Midfielder", 6, 65, "Barcelona", "Spain", "La Liga");
+insert into `playerdb` values (024, "Rodriguez", "Pedro", "Forward", 7, 88, "Barcelona", "Spain", "La Liga");
+insert into `playerdb` values (025, "Arda", "Turan", "Forward", 10, 20, "Atletico Madrid", "Trukey", "La Liga");
+insert into `playerdb` values (026, "Luka", "Modric", "Midfielder", 19, 67, "Real Madrid", "Croatia", "La Liga");
+insert into `playerdb` values (027, "Gareth", "Bale", "Forward", 11, 99, "Real Madrid", "Wales", "La Liga");
+insert into `playerdb` values (028, "Karim", "Benzema", "Forward", 9, 190, "Real Madrid", "France", "La Liga");
+insert into `playerdb` values (029, "Mario", "Mandzukic", "Forward", 9, 79, "Atletio Madrid", "Croatia", "La Liga");
+insert into `playerdb` values (030, "Antoine", "Griezmann", "Forward", 7, 65, "Atletico Madrid", "France", "La Liga");
+insert into `playerdb` values (031, "Evan", "Rakitic", "Midfielder", 4, 37, "Barcelona", "Serbia", "La Liga");
+insert into `playerdb` values (032, "Fernando", "Torres", "Forward", 19, 216, "Atletico Madrid", "Spain", "La Liga");
+
+
+
+
+
+insert into `playerdb` values (033, "Franck", "Ribery", "Forward", 7, 86, "Bayern Munich", "France", "Bundesliga");
+insert into `playerdb` values (034, "Arjen", "Robben", "Forward", 10, 153, "Bayern Munich", "Netherlands", "Bundesliga");
+insert into `playerdb` values (035, "Thomas", "Muller", "Forward", 25, 101, "Bayern Munich", "Germany", "Bundesliga");
+insert into `playerdb` values (036, "Bastian", "Schweinsteiger", "Midfielder", 31, 45, "Bayern Munich", "Germany", "Bundesliga");
+insert into `playerdb` values (037, "Mario", "Gotze", "Forward", 19, 53, "Bayern Munich", "Germany", "Bundesliga");
+insert into `playerdb` values (038, "Robert", "Lewandowski", "Forward", 9, 113, "Bayern Munich", "Poland", "Bundesliga");
+insert into `playerdb` values (039, "Andre", "Schurrle", "Forward", 17, 55, "Wolfsburg", "Germany", "Bundesliga");
+insert into `playerdb` values (040, "Marko", "Rues", "Forward", 11, 91, "Burussia Dortmund", "Germany", "Bundesliga");
+insert into `playerdb` values (041, "Roberto", "Firmino", "Forward", 10, 50, "Hoffenhaim", "Brazil", "Bundesliga");
+insert into `playerdb` values (042, "Klass Jan", "Huntelaar", "Forward", 25, 94, "Schalke 04", "Netherlands", "Bundesliga");
